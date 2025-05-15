@@ -1,0 +1,14 @@
+[package]
+name = "hero-ku/jecs-template"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Jecs = "ukendio/jecs@0.6.0"
+Planck = "yetanotherclown/planck@0.2.0-rc.2"
+Jabby = "alicesaidhi/jabby@0.2.3"
+PlanckJabby = "yetanotherclown/planck-jabby@0.2.0-rc.1"
+PlanckRunService = "yetanotherclown/planck-runservice@0.2.0-rc.1"
+MatterHooks = "yetanotherclown/planck-matter-hooks@0.2.0-rc.1"
+Plasma = "matter-ecs/plasma@0.4.4"
